@@ -28,6 +28,6 @@ function setPileOuFace() {
 
 //choose the random number
 function pileOuFace() {
-  var alea = Math.random()*1;
-  return (alea > 0.1 );
+  var alea = Math.random()*2;
+  return (parseInt(alea) == 1 );
 }
