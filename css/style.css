@@ -20,8 +20,8 @@ h1 span {
 }
 
 #coin, #flip, #coin div {
-  width: 234px;
-  height: 234px;
+  width: 300px;
+  height: 300px;
 }
 
 #flip {
@@ -32,11 +32,11 @@ h1 span {
 }
 
 .face {
-  background: url(../img/face.png);  
+  background: url(../img/face2.png);  
 }
 
 .pile {
-  background: url(../img/pile.png);
+  background: url(../img/pile2.png);
 }
 
 .front {
