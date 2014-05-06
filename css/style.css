@@ -55,4 +55,10 @@ a {
   color:inherit;
 }
 
+/*prelaod image */
+
+body:after{
+    display:none;
+    content: url(../img/face2.png) url(../img/pile2.png);
+}
 
