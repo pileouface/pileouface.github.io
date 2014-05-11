@@ -10,5 +10,5 @@
   $('.front').addClass(alternatives[parseInt(rand)]);
   //choose the title with a random value
    rand = Math.random()*2;
-  $('h1').text(parseInt(titles[rand]));
+  $('h1').text(titles[parseInt(rand)]);
 })();
